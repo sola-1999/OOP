@@ -40,107 +40,107 @@
             this.Belgiuml = new System.Windows.Forms.Label();
             this.vf2 = new System.Windows.Forms.CheckBox();
             this.va2 = new System.Windows.Forms.CheckBox();
-            this.checkBox3 = new System.Windows.Forms.CheckBox();
+            this.a2 = new System.Windows.Forms.CheckBox();
             this.label5 = new System.Windows.Forms.Label();
             this.vf3 = new System.Windows.Forms.CheckBox();
             this.va3 = new System.Windows.Forms.CheckBox();
-            this.checkBox6 = new System.Windows.Forms.CheckBox();
+            this.a3 = new System.Windows.Forms.CheckBox();
             this.label6 = new System.Windows.Forms.Label();
             this.vf4 = new System.Windows.Forms.CheckBox();
             this.va4 = new System.Windows.Forms.CheckBox();
-            this.checkBox9 = new System.Windows.Forms.CheckBox();
+            this.a4 = new System.Windows.Forms.CheckBox();
             this.label7 = new System.Windows.Forms.Label();
             this.vf5 = new System.Windows.Forms.CheckBox();
             this.va5 = new System.Windows.Forms.CheckBox();
-            this.checkBox12 = new System.Windows.Forms.CheckBox();
+            this.a5 = new System.Windows.Forms.CheckBox();
             this.label8 = new System.Windows.Forms.Label();
             this.vf6 = new System.Windows.Forms.CheckBox();
             this.va6 = new System.Windows.Forms.CheckBox();
-            this.checkBox15 = new System.Windows.Forms.CheckBox();
+            this.a6 = new System.Windows.Forms.CheckBox();
             this.label9 = new System.Windows.Forms.Label();
             this.vf7 = new System.Windows.Forms.CheckBox();
             this.va7 = new System.Windows.Forms.CheckBox();
-            this.checkBox18 = new System.Windows.Forms.CheckBox();
+            this.a7 = new System.Windows.Forms.CheckBox();
             this.Estonia = new System.Windows.Forms.Label();
             this.vf8 = new System.Windows.Forms.CheckBox();
             this.va8 = new System.Windows.Forms.CheckBox();
-            this.checkBox21 = new System.Windows.Forms.CheckBox();
+            this.a8 = new System.Windows.Forms.CheckBox();
             this.label10 = new System.Windows.Forms.Label();
             this.vf9 = new System.Windows.Forms.CheckBox();
             this.va9 = new System.Windows.Forms.CheckBox();
-            this.checkBox24 = new System.Windows.Forms.CheckBox();
+            this.a9 = new System.Windows.Forms.CheckBox();
             this.label11 = new System.Windows.Forms.Label();
             this.vf10 = new System.Windows.Forms.CheckBox();
             this.va10 = new System.Windows.Forms.CheckBox();
-            this.checkBox27 = new System.Windows.Forms.CheckBox();
+            this.a10 = new System.Windows.Forms.CheckBox();
             this.label12 = new System.Windows.Forms.Label();
             this.vf11 = new System.Windows.Forms.CheckBox();
             this.va11 = new System.Windows.Forms.CheckBox();
-            this.checkBox30 = new System.Windows.Forms.CheckBox();
+            this.a11 = new System.Windows.Forms.CheckBox();
             this.label13 = new System.Windows.Forms.Label();
             this.vf12 = new System.Windows.Forms.CheckBox();
             this.va12 = new System.Windows.Forms.CheckBox();
-            this.checkBox33 = new System.Windows.Forms.CheckBox();
+            this.a12 = new System.Windows.Forms.CheckBox();
             this.label14 = new System.Windows.Forms.Label();
             this.vf13 = new System.Windows.Forms.CheckBox();
             this.va13 = new System.Windows.Forms.CheckBox();
-            this.checkBox36 = new System.Windows.Forms.CheckBox();
+            this.a13 = new System.Windows.Forms.CheckBox();
             this.label15 = new System.Windows.Forms.Label();
             this.vf14 = new System.Windows.Forms.CheckBox();
             this.va14 = new System.Windows.Forms.CheckBox();
-            this.checkBox39 = new System.Windows.Forms.CheckBox();
+            this.a14 = new System.Windows.Forms.CheckBox();
             this.label16 = new System.Windows.Forms.Label();
             this.vf15 = new System.Windows.Forms.CheckBox();
             this.va15 = new System.Windows.Forms.CheckBox();
-            this.checkBox42 = new System.Windows.Forms.CheckBox();
+            this.a15 = new System.Windows.Forms.CheckBox();
             this.label17 = new System.Windows.Forms.Label();
             this.vf16 = new System.Windows.Forms.CheckBox();
             this.va16 = new System.Windows.Forms.CheckBox();
-            this.checkBox45 = new System.Windows.Forms.CheckBox();
+            this.a16 = new System.Windows.Forms.CheckBox();
             this.label18 = new System.Windows.Forms.Label();
             this.vf17 = new System.Windows.Forms.CheckBox();
             this.va17 = new System.Windows.Forms.CheckBox();
-            this.checkBox48 = new System.Windows.Forms.CheckBox();
+            this.a17 = new System.Windows.Forms.CheckBox();
             this.label19 = new System.Windows.Forms.Label();
             this.vf18 = new System.Windows.Forms.CheckBox();
             this.va18 = new System.Windows.Forms.CheckBox();
-            this.checkBox51 = new System.Windows.Forms.CheckBox();
+            this.a18 = new System.Windows.Forms.CheckBox();
             this.label20 = new System.Windows.Forms.Label();
             this.vf19 = new System.Windows.Forms.CheckBox();
             this.va19 = new System.Windows.Forms.CheckBox();
-            this.checkBox54 = new System.Windows.Forms.CheckBox();
+            this.a19 = new System.Windows.Forms.CheckBox();
             this.label21 = new System.Windows.Forms.Label();
             this.vf20 = new System.Windows.Forms.CheckBox();
             this.va20 = new System.Windows.Forms.CheckBox();
-            this.checkBox57 = new System.Windows.Forms.CheckBox();
+            this.a20 = new System.Windows.Forms.CheckBox();
             this.label22 = new System.Windows.Forms.Label();
             this.vf21 = new System.Windows.Forms.CheckBox();
             this.va21 = new System.Windows.Forms.CheckBox();
-            this.checkBox60 = new System.Windows.Forms.CheckBox();
+            this.a21 = new System.Windows.Forms.CheckBox();
             this.label23 = new System.Windows.Forms.Label();
             this.vf22 = new System.Windows.Forms.CheckBox();
             this.va22 = new System.Windows.Forms.CheckBox();
-            this.checkBox63 = new System.Windows.Forms.CheckBox();
+            this.a22 = new System.Windows.Forms.CheckBox();
             this.label24 = new System.Windows.Forms.Label();
             this.vf23 = new System.Windows.Forms.CheckBox();
             this.va23 = new System.Windows.Forms.CheckBox();
-            this.checkBox66 = new System.Windows.Forms.CheckBox();
+            this.a23 = new System.Windows.Forms.CheckBox();
             this.label25 = new System.Windows.Forms.Label();
             this.vf24 = new System.Windows.Forms.CheckBox();
             this.va24 = new System.Windows.Forms.CheckBox();
-            this.checkBox69 = new System.Windows.Forms.CheckBox();
+            this.a24 = new System.Windows.Forms.CheckBox();
             this.label26 = new System.Windows.Forms.Label();
             this.vf25 = new System.Windows.Forms.CheckBox();
             this.va25 = new System.Windows.Forms.CheckBox();
-            this.checkBox72 = new System.Windows.Forms.CheckBox();
+            this.a25 = new System.Windows.Forms.CheckBox();
             this.label27 = new System.Windows.Forms.Label();
             this.vf26 = new System.Windows.Forms.CheckBox();
             this.va26 = new System.Windows.Forms.CheckBox();
-            this.checkBox75 = new System.Windows.Forms.CheckBox();
+            this.a26 = new System.Windows.Forms.CheckBox();
             this.label28 = new System.Windows.Forms.Label();
             this.vf27 = new System.Windows.Forms.CheckBox();
             this.va27 = new System.Windows.Forms.CheckBox();
-            this.checkBox78 = new System.Windows.Forms.CheckBox();
+            this.a27 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // label1
@@ -244,15 +244,15 @@
             this.va2.Text = "Vote aganist";
             this.va2.UseVisualStyleBackColor = true;
             // 
-            // checkBox3
+            // a2
             // 
-            this.checkBox3.AutoSize = true;
-            this.checkBox3.Location = new System.Drawing.Point(613, 120);
-            this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(80, 17);
-            this.checkBox3.TabIndex = 10;
-            this.checkBox3.Text = "checkBox3";
-            this.checkBox3.UseVisualStyleBackColor = true;
+            this.a2.AutoSize = true;
+            this.a2.Location = new System.Drawing.Point(613, 120);
+            this.a2.Name = "a2";
+            this.a2.Size = new System.Drawing.Size(61, 17);
+            this.a2.TabIndex = 10;
+            this.a2.Text = "Abstain";
+            this.a2.UseVisualStyleBackColor = true;
             // 
             // label5
             // 
@@ -284,15 +284,15 @@
             this.va3.Text = "Vote aganist";
             this.va3.UseVisualStyleBackColor = true;
             // 
-            // checkBox6
+            // a3
             // 
-            this.checkBox6.AutoSize = true;
-            this.checkBox6.Location = new System.Drawing.Point(613, 178);
-            this.checkBox6.Name = "checkBox6";
-            this.checkBox6.Size = new System.Drawing.Size(80, 17);
-            this.checkBox6.TabIndex = 14;
-            this.checkBox6.Text = "checkBox6";
-            this.checkBox6.UseVisualStyleBackColor = true;
+            this.a3.AutoSize = true;
+            this.a3.Location = new System.Drawing.Point(613, 178);
+            this.a3.Name = "a3";
+            this.a3.Size = new System.Drawing.Size(61, 17);
+            this.a3.TabIndex = 14;
+            this.a3.Text = "Abstain";
+            this.a3.UseVisualStyleBackColor = true;
             // 
             // label6
             // 
@@ -324,15 +324,15 @@
             this.va4.Text = "Vote aganist";
             this.va4.UseVisualStyleBackColor = true;
             // 
-            // checkBox9
+            // a4
             // 
-            this.checkBox9.AutoSize = true;
-            this.checkBox9.Location = new System.Drawing.Point(613, 241);
-            this.checkBox9.Name = "checkBox9";
-            this.checkBox9.Size = new System.Drawing.Size(80, 17);
-            this.checkBox9.TabIndex = 18;
-            this.checkBox9.Text = "checkBox9";
-            this.checkBox9.UseVisualStyleBackColor = true;
+            this.a4.AutoSize = true;
+            this.a4.Location = new System.Drawing.Point(613, 241);
+            this.a4.Name = "a4";
+            this.a4.Size = new System.Drawing.Size(61, 17);
+            this.a4.TabIndex = 18;
+            this.a4.Text = "Abstain";
+            this.a4.UseVisualStyleBackColor = true;
             // 
             // label7
             // 
@@ -364,15 +364,15 @@
             this.va5.Text = "Vote aganist";
             this.va5.UseVisualStyleBackColor = true;
             // 
-            // checkBox12
+            // a5
             // 
-            this.checkBox12.AutoSize = true;
-            this.checkBox12.Location = new System.Drawing.Point(613, 299);
-            this.checkBox12.Name = "checkBox12";
-            this.checkBox12.Size = new System.Drawing.Size(86, 17);
-            this.checkBox12.TabIndex = 22;
-            this.checkBox12.Text = "checkBox12";
-            this.checkBox12.UseVisualStyleBackColor = true;
+            this.a5.AutoSize = true;
+            this.a5.Location = new System.Drawing.Point(613, 299);
+            this.a5.Name = "a5";
+            this.a5.Size = new System.Drawing.Size(61, 17);
+            this.a5.TabIndex = 22;
+            this.a5.Text = "Abstain";
+            this.a5.UseVisualStyleBackColor = true;
             // 
             // label8
             // 
@@ -404,15 +404,16 @@
             this.va6.Text = "Vote aganist";
             this.va6.UseVisualStyleBackColor = true;
             // 
-            // checkBox15
+            // a6
             // 
-            this.checkBox15.AutoSize = true;
-            this.checkBox15.Location = new System.Drawing.Point(613, 349);
-            this.checkBox15.Name = "checkBox15";
-            this.checkBox15.Size = new System.Drawing.Size(86, 17);
-            this.checkBox15.TabIndex = 26;
-            this.checkBox15.Text = "checkBox15";
-            this.checkBox15.UseVisualStyleBackColor = true;
+            this.a6.AutoSize = true;
+            this.a6.Location = new System.Drawing.Point(613, 349);
+            this.a6.Name = "a6";
+            this.a6.Size = new System.Drawing.Size(61, 17);
+            this.a6.TabIndex = 26;
+            this.a6.Text = "Abstain";
+            this.a6.UseVisualStyleBackColor = true;
+            this.a6.CheckedChanged += new System.EventHandler(this.checkBox15_CheckedChanged);
             // 
             // label9
             // 
@@ -444,15 +445,15 @@
             this.va7.Text = "Vote aganist";
             this.va7.UseVisualStyleBackColor = true;
             // 
-            // checkBox18
+            // a7
             // 
-            this.checkBox18.AutoSize = true;
-            this.checkBox18.Location = new System.Drawing.Point(613, 407);
-            this.checkBox18.Name = "checkBox18";
-            this.checkBox18.Size = new System.Drawing.Size(86, 17);
-            this.checkBox18.TabIndex = 30;
-            this.checkBox18.Text = "checkBox18";
-            this.checkBox18.UseVisualStyleBackColor = true;
+            this.a7.AutoSize = true;
+            this.a7.Location = new System.Drawing.Point(613, 407);
+            this.a7.Name = "a7";
+            this.a7.Size = new System.Drawing.Size(61, 17);
+            this.a7.TabIndex = 30;
+            this.a7.Text = "Abstain";
+            this.a7.UseVisualStyleBackColor = true;
             // 
             // Estonia
             // 
@@ -484,15 +485,15 @@
             this.va8.Text = "Vote aganist";
             this.va8.UseVisualStyleBackColor = true;
             // 
-            // checkBox21
+            // a8
             // 
-            this.checkBox21.AutoSize = true;
-            this.checkBox21.Location = new System.Drawing.Point(613, 462);
-            this.checkBox21.Name = "checkBox21";
-            this.checkBox21.Size = new System.Drawing.Size(86, 17);
-            this.checkBox21.TabIndex = 34;
-            this.checkBox21.Text = "checkBox21";
-            this.checkBox21.UseVisualStyleBackColor = true;
+            this.a8.AutoSize = true;
+            this.a8.Location = new System.Drawing.Point(613, 462);
+            this.a8.Name = "a8";
+            this.a8.Size = new System.Drawing.Size(61, 17);
+            this.a8.TabIndex = 34;
+            this.a8.Text = "Abstain";
+            this.a8.UseVisualStyleBackColor = true;
             // 
             // label10
             // 
@@ -524,15 +525,15 @@
             this.va9.Text = "Vote aganist";
             this.va9.UseVisualStyleBackColor = true;
             // 
-            // checkBox24
+            // a9
             // 
-            this.checkBox24.AutoSize = true;
-            this.checkBox24.Location = new System.Drawing.Point(613, 520);
-            this.checkBox24.Name = "checkBox24";
-            this.checkBox24.Size = new System.Drawing.Size(86, 17);
-            this.checkBox24.TabIndex = 38;
-            this.checkBox24.Text = "checkBox24";
-            this.checkBox24.UseVisualStyleBackColor = true;
+            this.a9.AutoSize = true;
+            this.a9.Location = new System.Drawing.Point(613, 520);
+            this.a9.Name = "a9";
+            this.a9.Size = new System.Drawing.Size(61, 17);
+            this.a9.TabIndex = 38;
+            this.a9.Text = "Abstain";
+            this.a9.UseVisualStyleBackColor = true;
             // 
             // label11
             // 
@@ -564,15 +565,15 @@
             this.va10.Text = "Vote aganist";
             this.va10.UseVisualStyleBackColor = true;
             // 
-            // checkBox27
+            // a10
             // 
-            this.checkBox27.AutoSize = true;
-            this.checkBox27.Location = new System.Drawing.Point(613, 580);
-            this.checkBox27.Name = "checkBox27";
-            this.checkBox27.Size = new System.Drawing.Size(86, 17);
-            this.checkBox27.TabIndex = 42;
-            this.checkBox27.Text = "checkBox27";
-            this.checkBox27.UseVisualStyleBackColor = true;
+            this.a10.AutoSize = true;
+            this.a10.Location = new System.Drawing.Point(613, 580);
+            this.a10.Name = "a10";
+            this.a10.Size = new System.Drawing.Size(61, 17);
+            this.a10.TabIndex = 42;
+            this.a10.Text = "Abstain";
+            this.a10.UseVisualStyleBackColor = true;
             // 
             // label12
             // 
@@ -604,15 +605,15 @@
             this.va11.Text = "Vote aganist";
             this.va11.UseVisualStyleBackColor = true;
             // 
-            // checkBox30
+            // a11
             // 
-            this.checkBox30.AutoSize = true;
-            this.checkBox30.Location = new System.Drawing.Point(613, 637);
-            this.checkBox30.Name = "checkBox30";
-            this.checkBox30.Size = new System.Drawing.Size(86, 17);
-            this.checkBox30.TabIndex = 46;
-            this.checkBox30.Text = "checkBox30";
-            this.checkBox30.UseVisualStyleBackColor = true;
+            this.a11.AutoSize = true;
+            this.a11.Location = new System.Drawing.Point(613, 637);
+            this.a11.Name = "a11";
+            this.a11.Size = new System.Drawing.Size(61, 17);
+            this.a11.TabIndex = 46;
+            this.a11.Text = "Abstain";
+            this.a11.UseVisualStyleBackColor = true;
             // 
             // label13
             // 
@@ -644,15 +645,15 @@
             this.va12.Text = "Vote aganist";
             this.va12.UseVisualStyleBackColor = true;
             // 
-            // checkBox33
+            // a12
             // 
-            this.checkBox33.AutoSize = true;
-            this.checkBox33.Location = new System.Drawing.Point(613, 696);
-            this.checkBox33.Name = "checkBox33";
-            this.checkBox33.Size = new System.Drawing.Size(86, 17);
-            this.checkBox33.TabIndex = 50;
-            this.checkBox33.Text = "checkBox33";
-            this.checkBox33.UseVisualStyleBackColor = true;
+            this.a12.AutoSize = true;
+            this.a12.Location = new System.Drawing.Point(613, 696);
+            this.a12.Name = "a12";
+            this.a12.Size = new System.Drawing.Size(61, 17);
+            this.a12.TabIndex = 50;
+            this.a12.Text = "Abstain";
+            this.a12.UseVisualStyleBackColor = true;
             // 
             // label14
             // 
@@ -684,15 +685,15 @@
             this.va13.Text = "Vote aganist";
             this.va13.UseVisualStyleBackColor = true;
             // 
-            // checkBox36
+            // a13
             // 
-            this.checkBox36.AutoSize = true;
-            this.checkBox36.Location = new System.Drawing.Point(613, 746);
-            this.checkBox36.Name = "checkBox36";
-            this.checkBox36.Size = new System.Drawing.Size(86, 17);
-            this.checkBox36.TabIndex = 54;
-            this.checkBox36.Text = "checkBox36";
-            this.checkBox36.UseVisualStyleBackColor = true;
+            this.a13.AutoSize = true;
+            this.a13.Location = new System.Drawing.Point(613, 746);
+            this.a13.Name = "a13";
+            this.a13.Size = new System.Drawing.Size(61, 17);
+            this.a13.TabIndex = 54;
+            this.a13.Text = "Abstain";
+            this.a13.UseVisualStyleBackColor = true;
             // 
             // label15
             // 
@@ -724,15 +725,15 @@
             this.va14.Text = "Vote aganist";
             this.va14.UseVisualStyleBackColor = true;
             // 
-            // checkBox39
+            // a14
             // 
-            this.checkBox39.AutoSize = true;
-            this.checkBox39.Location = new System.Drawing.Point(1236, 56);
-            this.checkBox39.Name = "checkBox39";
-            this.checkBox39.Size = new System.Drawing.Size(86, 17);
-            this.checkBox39.TabIndex = 58;
-            this.checkBox39.Text = "checkBox39";
-            this.checkBox39.UseVisualStyleBackColor = true;
+            this.a14.AutoSize = true;
+            this.a14.Location = new System.Drawing.Point(1236, 56);
+            this.a14.Name = "a14";
+            this.a14.Size = new System.Drawing.Size(61, 17);
+            this.a14.TabIndex = 58;
+            this.a14.Text = "Abstain";
+            this.a14.UseVisualStyleBackColor = true;
             // 
             // label16
             // 
@@ -764,15 +765,15 @@
             this.va15.Text = "Vote aganist";
             this.va15.UseVisualStyleBackColor = true;
             // 
-            // checkBox42
+            // a15
             // 
-            this.checkBox42.AutoSize = true;
-            this.checkBox42.Location = new System.Drawing.Point(1236, 115);
-            this.checkBox42.Name = "checkBox42";
-            this.checkBox42.Size = new System.Drawing.Size(86, 17);
-            this.checkBox42.TabIndex = 62;
-            this.checkBox42.Text = "checkBox42";
-            this.checkBox42.UseVisualStyleBackColor = true;
+            this.a15.AutoSize = true;
+            this.a15.Location = new System.Drawing.Point(1236, 115);
+            this.a15.Name = "a15";
+            this.a15.Size = new System.Drawing.Size(61, 17);
+            this.a15.TabIndex = 62;
+            this.a15.Text = "Abstain";
+            this.a15.UseVisualStyleBackColor = true;
             // 
             // label17
             // 
@@ -804,15 +805,15 @@
             this.va16.Text = "Vote aganist";
             this.va16.UseVisualStyleBackColor = true;
             // 
-            // checkBox45
+            // a16
             // 
-            this.checkBox45.AutoSize = true;
-            this.checkBox45.Location = new System.Drawing.Point(1236, 178);
-            this.checkBox45.Name = "checkBox45";
-            this.checkBox45.Size = new System.Drawing.Size(86, 17);
-            this.checkBox45.TabIndex = 66;
-            this.checkBox45.Text = "checkBox45";
-            this.checkBox45.UseVisualStyleBackColor = true;
+            this.a16.AutoSize = true;
+            this.a16.Location = new System.Drawing.Point(1236, 178);
+            this.a16.Name = "a16";
+            this.a16.Size = new System.Drawing.Size(61, 17);
+            this.a16.TabIndex = 66;
+            this.a16.Text = "Abstain";
+            this.a16.UseVisualStyleBackColor = true;
             // 
             // label18
             // 
@@ -844,15 +845,15 @@
             this.va17.Text = "Vote aganist";
             this.va17.UseVisualStyleBackColor = true;
             // 
-            // checkBox48
+            // a17
             // 
-            this.checkBox48.AutoSize = true;
-            this.checkBox48.Location = new System.Drawing.Point(1236, 239);
-            this.checkBox48.Name = "checkBox48";
-            this.checkBox48.Size = new System.Drawing.Size(86, 17);
-            this.checkBox48.TabIndex = 70;
-            this.checkBox48.Text = "checkBox48";
-            this.checkBox48.UseVisualStyleBackColor = true;
+            this.a17.AutoSize = true;
+            this.a17.Location = new System.Drawing.Point(1236, 239);
+            this.a17.Name = "a17";
+            this.a17.Size = new System.Drawing.Size(61, 17);
+            this.a17.TabIndex = 70;
+            this.a17.Text = "Abstain";
+            this.a17.UseVisualStyleBackColor = true;
             // 
             // label19
             // 
@@ -884,15 +885,15 @@
             this.va18.Text = "Vote aganist";
             this.va18.UseVisualStyleBackColor = true;
             // 
-            // checkBox51
+            // a18
             // 
-            this.checkBox51.AutoSize = true;
-            this.checkBox51.Location = new System.Drawing.Point(1236, 297);
-            this.checkBox51.Name = "checkBox51";
-            this.checkBox51.Size = new System.Drawing.Size(86, 17);
-            this.checkBox51.TabIndex = 74;
-            this.checkBox51.Text = "checkBox51";
-            this.checkBox51.UseVisualStyleBackColor = true;
+            this.a18.AutoSize = true;
+            this.a18.Location = new System.Drawing.Point(1236, 297);
+            this.a18.Name = "a18";
+            this.a18.Size = new System.Drawing.Size(61, 17);
+            this.a18.TabIndex = 74;
+            this.a18.Text = "Abstain";
+            this.a18.UseVisualStyleBackColor = true;
             // 
             // label20
             // 
@@ -924,15 +925,15 @@
             this.va19.Text = "Vote aganist";
             this.va19.UseVisualStyleBackColor = true;
             // 
-            // checkBox54
+            // a19
             // 
-            this.checkBox54.AutoSize = true;
-            this.checkBox54.Location = new System.Drawing.Point(1236, 347);
-            this.checkBox54.Name = "checkBox54";
-            this.checkBox54.Size = new System.Drawing.Size(86, 17);
-            this.checkBox54.TabIndex = 78;
-            this.checkBox54.Text = "checkBox54";
-            this.checkBox54.UseVisualStyleBackColor = true;
+            this.a19.AutoSize = true;
+            this.a19.Location = new System.Drawing.Point(1236, 347);
+            this.a19.Name = "a19";
+            this.a19.Size = new System.Drawing.Size(61, 17);
+            this.a19.TabIndex = 78;
+            this.a19.Text = "Abstain";
+            this.a19.UseVisualStyleBackColor = true;
             // 
             // label21
             // 
@@ -964,15 +965,15 @@
             this.va20.Text = "Vote aganist";
             this.va20.UseVisualStyleBackColor = true;
             // 
-            // checkBox57
+            // a20
             // 
-            this.checkBox57.AutoSize = true;
-            this.checkBox57.Location = new System.Drawing.Point(1236, 405);
-            this.checkBox57.Name = "checkBox57";
-            this.checkBox57.Size = new System.Drawing.Size(86, 17);
-            this.checkBox57.TabIndex = 82;
-            this.checkBox57.Text = "checkBox57";
-            this.checkBox57.UseVisualStyleBackColor = true;
+            this.a20.AutoSize = true;
+            this.a20.Location = new System.Drawing.Point(1236, 405);
+            this.a20.Name = "a20";
+            this.a20.Size = new System.Drawing.Size(61, 17);
+            this.a20.TabIndex = 82;
+            this.a20.Text = "Abstain";
+            this.a20.UseVisualStyleBackColor = true;
             // 
             // label22
             // 
@@ -1004,15 +1005,15 @@
             this.va21.Text = "Vote aganist";
             this.va21.UseVisualStyleBackColor = true;
             // 
-            // checkBox60
+            // a21
             // 
-            this.checkBox60.AutoSize = true;
-            this.checkBox60.Location = new System.Drawing.Point(1236, 460);
-            this.checkBox60.Name = "checkBox60";
-            this.checkBox60.Size = new System.Drawing.Size(86, 17);
-            this.checkBox60.TabIndex = 86;
-            this.checkBox60.Text = "checkBox60";
-            this.checkBox60.UseVisualStyleBackColor = true;
+            this.a21.AutoSize = true;
+            this.a21.Location = new System.Drawing.Point(1236, 460);
+            this.a21.Name = "a21";
+            this.a21.Size = new System.Drawing.Size(61, 17);
+            this.a21.TabIndex = 86;
+            this.a21.Text = "Abstain";
+            this.a21.UseVisualStyleBackColor = true;
             // 
             // label23
             // 
@@ -1044,15 +1045,15 @@
             this.va22.Text = "Vote aganist";
             this.va22.UseVisualStyleBackColor = true;
             // 
-            // checkBox63
+            // a22
             // 
-            this.checkBox63.AutoSize = true;
-            this.checkBox63.Location = new System.Drawing.Point(1236, 516);
-            this.checkBox63.Name = "checkBox63";
-            this.checkBox63.Size = new System.Drawing.Size(86, 17);
-            this.checkBox63.TabIndex = 90;
-            this.checkBox63.Text = "checkBox63";
-            this.checkBox63.UseVisualStyleBackColor = true;
+            this.a22.AutoSize = true;
+            this.a22.Location = new System.Drawing.Point(1236, 516);
+            this.a22.Name = "a22";
+            this.a22.Size = new System.Drawing.Size(61, 17);
+            this.a22.TabIndex = 90;
+            this.a22.Text = "Abstain";
+            this.a22.UseVisualStyleBackColor = true;
             // 
             // label24
             // 
@@ -1084,15 +1085,15 @@
             this.va23.Text = "Vote aganist";
             this.va23.UseVisualStyleBackColor = true;
             // 
-            // checkBox66
+            // a23
             // 
-            this.checkBox66.AutoSize = true;
-            this.checkBox66.Location = new System.Drawing.Point(1236, 575);
-            this.checkBox66.Name = "checkBox66";
-            this.checkBox66.Size = new System.Drawing.Size(86, 17);
-            this.checkBox66.TabIndex = 94;
-            this.checkBox66.Text = "checkBox66";
-            this.checkBox66.UseVisualStyleBackColor = true;
+            this.a23.AutoSize = true;
+            this.a23.Location = new System.Drawing.Point(1236, 575);
+            this.a23.Name = "a23";
+            this.a23.Size = new System.Drawing.Size(61, 17);
+            this.a23.TabIndex = 94;
+            this.a23.Text = "Abstain";
+            this.a23.UseVisualStyleBackColor = true;
             // 
             // label25
             // 
@@ -1124,15 +1125,15 @@
             this.va24.Text = "Vote aganist";
             this.va24.UseVisualStyleBackColor = true;
             // 
-            // checkBox69
+            // a24
             // 
-            this.checkBox69.AutoSize = true;
-            this.checkBox69.Location = new System.Drawing.Point(1236, 637);
-            this.checkBox69.Name = "checkBox69";
-            this.checkBox69.Size = new System.Drawing.Size(86, 17);
-            this.checkBox69.TabIndex = 98;
-            this.checkBox69.Text = "checkBox69";
-            this.checkBox69.UseVisualStyleBackColor = true;
+            this.a24.AutoSize = true;
+            this.a24.Location = new System.Drawing.Point(1236, 637);
+            this.a24.Name = "a24";
+            this.a24.Size = new System.Drawing.Size(61, 17);
+            this.a24.TabIndex = 98;
+            this.a24.Text = "Abstain";
+            this.a24.UseVisualStyleBackColor = true;
             // 
             // label26
             // 
@@ -1164,15 +1165,15 @@
             this.va25.Text = "Vote aganist";
             this.va25.UseVisualStyleBackColor = true;
             // 
-            // checkBox72
+            // a25
             // 
-            this.checkBox72.AutoSize = true;
-            this.checkBox72.Location = new System.Drawing.Point(1236, 691);
-            this.checkBox72.Name = "checkBox72";
-            this.checkBox72.Size = new System.Drawing.Size(86, 17);
-            this.checkBox72.TabIndex = 102;
-            this.checkBox72.Text = "checkBox72";
-            this.checkBox72.UseVisualStyleBackColor = true;
+            this.a25.AutoSize = true;
+            this.a25.Location = new System.Drawing.Point(1236, 691);
+            this.a25.Name = "a25";
+            this.a25.Size = new System.Drawing.Size(61, 17);
+            this.a25.TabIndex = 102;
+            this.a25.Text = "Abstain";
+            this.a25.UseVisualStyleBackColor = true;
             // 
             // label27
             // 
@@ -1204,15 +1205,15 @@
             this.va26.Text = "Vote aganist";
             this.va26.UseVisualStyleBackColor = true;
             // 
-            // checkBox75
+            // a26
             // 
-            this.checkBox75.AutoSize = true;
-            this.checkBox75.Location = new System.Drawing.Point(1236, 740);
-            this.checkBox75.Name = "checkBox75";
-            this.checkBox75.Size = new System.Drawing.Size(86, 17);
-            this.checkBox75.TabIndex = 106;
-            this.checkBox75.Text = "checkBox75";
-            this.checkBox75.UseVisualStyleBackColor = true;
+            this.a26.AutoSize = true;
+            this.a26.Location = new System.Drawing.Point(1236, 740);
+            this.a26.Name = "a26";
+            this.a26.Size = new System.Drawing.Size(61, 17);
+            this.a26.TabIndex = 106;
+            this.a26.Text = "Abstain";
+            this.a26.UseVisualStyleBackColor = true;
             // 
             // label28
             // 
@@ -1244,15 +1245,15 @@
             this.va27.Text = "Vote aganist";
             this.va27.UseVisualStyleBackColor = true;
             // 
-            // checkBox78
+            // a27
             // 
-            this.checkBox78.AutoSize = true;
-            this.checkBox78.Location = new System.Drawing.Point(1740, 56);
-            this.checkBox78.Name = "checkBox78";
-            this.checkBox78.Size = new System.Drawing.Size(86, 17);
-            this.checkBox78.TabIndex = 110;
-            this.checkBox78.Text = "checkBox78";
-            this.checkBox78.UseVisualStyleBackColor = true;
+            this.a27.AutoSize = true;
+            this.a27.Location = new System.Drawing.Point(1740, 56);
+            this.a27.Name = "a27";
+            this.a27.Size = new System.Drawing.Size(61, 17);
+            this.a27.TabIndex = 110;
+            this.a27.Text = "Abstain";
+            this.a27.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -1260,107 +1261,107 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.ClientSize = new System.Drawing.Size(1853, 922);
-            this.Controls.Add(this.checkBox78);
+            this.Controls.Add(this.a27);
             this.Controls.Add(this.va27);
             this.Controls.Add(this.vf27);
             this.Controls.Add(this.label28);
-            this.Controls.Add(this.checkBox75);
+            this.Controls.Add(this.a26);
             this.Controls.Add(this.va26);
             this.Controls.Add(this.vf26);
             this.Controls.Add(this.label27);
-            this.Controls.Add(this.checkBox72);
+            this.Controls.Add(this.a25);
             this.Controls.Add(this.va25);
             this.Controls.Add(this.vf25);
             this.Controls.Add(this.label26);
-            this.Controls.Add(this.checkBox69);
+            this.Controls.Add(this.a24);
             this.Controls.Add(this.va24);
             this.Controls.Add(this.vf24);
             this.Controls.Add(this.label25);
-            this.Controls.Add(this.checkBox66);
+            this.Controls.Add(this.a23);
             this.Controls.Add(this.va23);
             this.Controls.Add(this.vf23);
             this.Controls.Add(this.label24);
-            this.Controls.Add(this.checkBox63);
+            this.Controls.Add(this.a22);
             this.Controls.Add(this.va22);
             this.Controls.Add(this.vf22);
             this.Controls.Add(this.label23);
-            this.Controls.Add(this.checkBox60);
+            this.Controls.Add(this.a21);
             this.Controls.Add(this.va21);
             this.Controls.Add(this.vf21);
             this.Controls.Add(this.label22);
-            this.Controls.Add(this.checkBox57);
+            this.Controls.Add(this.a20);
             this.Controls.Add(this.va20);
             this.Controls.Add(this.vf20);
             this.Controls.Add(this.label21);
-            this.Controls.Add(this.checkBox54);
+            this.Controls.Add(this.a19);
             this.Controls.Add(this.va19);
             this.Controls.Add(this.vf19);
             this.Controls.Add(this.label20);
-            this.Controls.Add(this.checkBox51);
+            this.Controls.Add(this.a18);
             this.Controls.Add(this.va18);
             this.Controls.Add(this.vf18);
             this.Controls.Add(this.label19);
-            this.Controls.Add(this.checkBox48);
+            this.Controls.Add(this.a17);
             this.Controls.Add(this.va17);
             this.Controls.Add(this.vf17);
             this.Controls.Add(this.label18);
-            this.Controls.Add(this.checkBox45);
+            this.Controls.Add(this.a16);
             this.Controls.Add(this.va16);
             this.Controls.Add(this.vf16);
             this.Controls.Add(this.label17);
-            this.Controls.Add(this.checkBox42);
+            this.Controls.Add(this.a15);
             this.Controls.Add(this.va15);
             this.Controls.Add(this.vf15);
             this.Controls.Add(this.label16);
-            this.Controls.Add(this.checkBox39);
+            this.Controls.Add(this.a14);
             this.Controls.Add(this.va14);
             this.Controls.Add(this.vf14);
             this.Controls.Add(this.label15);
-            this.Controls.Add(this.checkBox36);
+            this.Controls.Add(this.a13);
             this.Controls.Add(this.va13);
             this.Controls.Add(this.vf13);
             this.Controls.Add(this.label14);
-            this.Controls.Add(this.checkBox33);
+            this.Controls.Add(this.a12);
             this.Controls.Add(this.va12);
             this.Controls.Add(this.vf12);
             this.Controls.Add(this.label13);
-            this.Controls.Add(this.checkBox30);
+            this.Controls.Add(this.a11);
             this.Controls.Add(this.va11);
             this.Controls.Add(this.vf11);
             this.Controls.Add(this.label12);
-            this.Controls.Add(this.checkBox27);
+            this.Controls.Add(this.a10);
             this.Controls.Add(this.va10);
             this.Controls.Add(this.vf10);
             this.Controls.Add(this.label11);
-            this.Controls.Add(this.checkBox24);
+            this.Controls.Add(this.a9);
             this.Controls.Add(this.va9);
             this.Controls.Add(this.vf9);
             this.Controls.Add(this.label10);
-            this.Controls.Add(this.checkBox21);
+            this.Controls.Add(this.a8);
             this.Controls.Add(this.va8);
             this.Controls.Add(this.vf8);
             this.Controls.Add(this.Estonia);
-            this.Controls.Add(this.checkBox18);
+            this.Controls.Add(this.a7);
             this.Controls.Add(this.va7);
             this.Controls.Add(this.vf7);
             this.Controls.Add(this.label9);
-            this.Controls.Add(this.checkBox15);
+            this.Controls.Add(this.a6);
             this.Controls.Add(this.va6);
             this.Controls.Add(this.vf6);
             this.Controls.Add(this.label8);
-            this.Controls.Add(this.checkBox12);
+            this.Controls.Add(this.a5);
             this.Controls.Add(this.va5);
             this.Controls.Add(this.vf5);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.checkBox9);
+            this.Controls.Add(this.a4);
             this.Controls.Add(this.va4);
             this.Controls.Add(this.vf4);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.checkBox6);
+            this.Controls.Add(this.a3);
             this.Controls.Add(this.va3);
             this.Controls.Add(this.vf3);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.checkBox3);
+            this.Controls.Add(this.a2);
             this.Controls.Add(this.va2);
             this.Controls.Add(this.vf2);
             this.Controls.Add(this.Belgiuml);
@@ -1393,107 +1394,107 @@
         private System.Windows.Forms.Label Belgiuml;
         private System.Windows.Forms.CheckBox vf2;
         private System.Windows.Forms.CheckBox va2;
-        private System.Windows.Forms.CheckBox checkBox3;
+        private System.Windows.Forms.CheckBox a2;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.CheckBox vf3;
         private System.Windows.Forms.CheckBox va3;
-        private System.Windows.Forms.CheckBox checkBox6;
+        private System.Windows.Forms.CheckBox a3;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.CheckBox vf4;
         private System.Windows.Forms.CheckBox va4;
-        private System.Windows.Forms.CheckBox checkBox9;
+        private System.Windows.Forms.CheckBox a4;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.CheckBox vf5;
         private System.Windows.Forms.CheckBox va5;
-        private System.Windows.Forms.CheckBox checkBox12;
+        private System.Windows.Forms.CheckBox a5;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.CheckBox vf6;
         private System.Windows.Forms.CheckBox va6;
-        private System.Windows.Forms.CheckBox checkBox15;
+        private System.Windows.Forms.CheckBox a6;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.CheckBox vf7;
         private System.Windows.Forms.CheckBox va7;
-        private System.Windows.Forms.CheckBox checkBox18;
+        private System.Windows.Forms.CheckBox a7;
         private System.Windows.Forms.Label Estonia;
         private System.Windows.Forms.CheckBox vf8;
         private System.Windows.Forms.CheckBox va8;
-        private System.Windows.Forms.CheckBox checkBox21;
+        private System.Windows.Forms.CheckBox a8;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.CheckBox vf9;
         private System.Windows.Forms.CheckBox va9;
-        private System.Windows.Forms.CheckBox checkBox24;
+        private System.Windows.Forms.CheckBox a9;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.CheckBox vf10;
         private System.Windows.Forms.CheckBox va10;
-        private System.Windows.Forms.CheckBox checkBox27;
+        private System.Windows.Forms.CheckBox a10;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.CheckBox vf11;
         private System.Windows.Forms.CheckBox va11;
-        private System.Windows.Forms.CheckBox checkBox30;
+        private System.Windows.Forms.CheckBox a11;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.CheckBox vf12;
         private System.Windows.Forms.CheckBox va12;
-        private System.Windows.Forms.CheckBox checkBox33;
+        private System.Windows.Forms.CheckBox a12;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.CheckBox vf13;
         private System.Windows.Forms.CheckBox va13;
-        private System.Windows.Forms.CheckBox checkBox36;
+        private System.Windows.Forms.CheckBox a13;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.CheckBox vf14;
         private System.Windows.Forms.CheckBox va14;
-        private System.Windows.Forms.CheckBox checkBox39;
+        private System.Windows.Forms.CheckBox a14;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.CheckBox vf15;
         private System.Windows.Forms.CheckBox va15;
-        private System.Windows.Forms.CheckBox checkBox42;
+        private System.Windows.Forms.CheckBox a15;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.CheckBox vf16;
         private System.Windows.Forms.CheckBox va16;
-        private System.Windows.Forms.CheckBox checkBox45;
+        private System.Windows.Forms.CheckBox a16;
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.CheckBox vf17;
         private System.Windows.Forms.CheckBox va17;
-        private System.Windows.Forms.CheckBox checkBox48;
+        private System.Windows.Forms.CheckBox a17;
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.CheckBox vf18;
         private System.Windows.Forms.CheckBox va18;
-        private System.Windows.Forms.CheckBox checkBox51;
+        private System.Windows.Forms.CheckBox a18;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.CheckBox vf19;
         private System.Windows.Forms.CheckBox va19;
-        private System.Windows.Forms.CheckBox checkBox54;
+        private System.Windows.Forms.CheckBox a19;
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.CheckBox vf20;
         private System.Windows.Forms.CheckBox va20;
-        private System.Windows.Forms.CheckBox checkBox57;
+        private System.Windows.Forms.CheckBox a20;
         private System.Windows.Forms.Label label22;
         private System.Windows.Forms.CheckBox vf21;
         private System.Windows.Forms.CheckBox va21;
-        private System.Windows.Forms.CheckBox checkBox60;
+        private System.Windows.Forms.CheckBox a21;
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.CheckBox vf22;
         private System.Windows.Forms.CheckBox va22;
-        private System.Windows.Forms.CheckBox checkBox63;
+        private System.Windows.Forms.CheckBox a22;
         private System.Windows.Forms.Label label24;
         private System.Windows.Forms.CheckBox vf23;
         private System.Windows.Forms.CheckBox va23;
-        private System.Windows.Forms.CheckBox checkBox66;
+        private System.Windows.Forms.CheckBox a23;
         private System.Windows.Forms.Label label25;
         private System.Windows.Forms.CheckBox vf24;
         private System.Windows.Forms.CheckBox va24;
-        private System.Windows.Forms.CheckBox checkBox69;
+        private System.Windows.Forms.CheckBox a24;
         private System.Windows.Forms.Label label26;
         private System.Windows.Forms.CheckBox vf25;
         private System.Windows.Forms.CheckBox va25;
-        private System.Windows.Forms.CheckBox checkBox72;
+        private System.Windows.Forms.CheckBox a25;
         private System.Windows.Forms.Label label27;
         private System.Windows.Forms.CheckBox vf26;
         private System.Windows.Forms.CheckBox va26;
-        private System.Windows.Forms.CheckBox checkBox75;
+        private System.Windows.Forms.CheckBox a26;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.CheckBox vf27;
         private System.Windows.Forms.CheckBox va27;
-        private System.Windows.Forms.CheckBox checkBox78;
+        private System.Windows.Forms.CheckBox a27;
     }
 }
 

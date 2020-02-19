@@ -55,6 +55,7 @@ namespace EU_Calculator
             {
                 againstDisplayMinus();//Runs a method to update the votes
             }
+ 
         }
 
         private void a1_CheckedChanged(object sender, EventArgs e)
@@ -127,5 +128,9 @@ namespace EU_Calculator
 
         }
 
+        private void checkBox15_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
