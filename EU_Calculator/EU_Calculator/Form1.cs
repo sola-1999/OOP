@@ -24,15 +24,15 @@ namespace EU_Calculator
             
 
             InitializeComponent();
-            List<string> names = new List<string> { "Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia", "Spain", "Sweden" };
-            List<double> populations = new List<double> { 1.98, 2.56, 1.56, 0.91, 0.20, 2.35, 1.30, 0.30, 1.23, 14.98, 18.54, 2.40, 2.18, 1.10, 13.65, 0.43, 0.62, 0.14, 0.11, 3.89, 8.49, 2.30, 4.34, 1.22, 0.47, 10.49, 2.29 };
-            int lenght = names.Count;
+            List<string> names = new List<string> { "Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia", "Spain", "Sweden" }; //List of country names
+            List<double> populations = new List<double> { 1.98, 2.56, 1.56, 0.91, 0.20, 2.35, 1.30, 0.30, 1.23, 14.98, 18.54, 2.40, 2.18, 1.10, 13.65, 0.43, 0.62, 0.14, 0.11, 3.89, 8.49, 2.30, 4.34, 1.22, 0.47, 10.49, 2.29 }; //List of populations 
+            int lenght = names.Count;//counts the lenght of the names list
 
-            List<Countires> Country = new List<Countires>();
+            List<Countires> Country = new List<Countires>(); //List to store country objects
             int i = 0;
-            while (i < lenght)
+            while (i < lenght)//Loops through each country
             {
-                Country.Add(new Countires(names.ElementAt(i),populations.ElementAt(i)));
+                Country.Add(new Countires(names.ElementAt(i),populations.ElementAt(i)));// Adds country too list
                 i++;//increments i
             }
            
@@ -52,9 +52,9 @@ namespace EU_Calculator
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            if (va1.Checked == true || a1.Checked == true)
+            if (va1.Checked == true || a1.Checked == true) //Checks if agianst or abstain are ticked
             {
-                vf1.Checked = false;
+                vf1.Checked = false; //sets the box to be unticked
             }
 
             else
@@ -74,26 +74,41 @@ namespace EU_Calculator
 
         private void va1_CheckedChanged(object sender, EventArgs e)
         {
-            if (va1.Checked == true)//Checks if the tick box is ticked
+            if (vf1.Checked == true || a1.Checked == true) //Checks if for or abstain are ticked
             {
-                againstDisplayAdd();//Runs a method to update the votes
+                va1.Checked = false; //sets the box to be unticked
             }
-            if (va1.Checked == false)// checkes if the tickbox in unticked
+            else
             {
-                againstDisplayMinus();//Runs a method to update the votes
+                if (va1.Checked == true)//Checks if the tick box is ticked
+                {
+                    againstDisplayAdd();//Runs a method to update the votes
+                }
+                if (va1.Checked == false)// checkes if the tickbox in unticked
+                {
+                    againstDisplayMinus();//Runs a method to update the votes
+                }
             }
+            
  
         }
 
         private void a1_CheckedChanged(object sender, EventArgs e)
         {
-            if (a1.Checked == true)//Checks if the tick box is ticked
+            if (vf1.Checked == true || va1.Checked == true) //Checks if agianst or for are ticked
             {
-                abstainDisplayAdd();//Runs a method to update the votes
+                a1.Checked = false; //sets the box to be unticked
             }
-            if (a1.Checked == false)// checkes if the tickbox in unticked
+            else
             {
-                abstainDisplayMinus();//Runs a method to update the votes
+                if (a1.Checked == true)//Checks if the tick box is ticked
+                {
+                    abstainDisplayAdd();//Runs a method to update the votes
+                }
+                if (a1.Checked == false)// checkes if the tickbox in unticked
+                {
+                    abstainDisplayMinus();//Runs a method to update the votes
+                }
             }
         }
 
