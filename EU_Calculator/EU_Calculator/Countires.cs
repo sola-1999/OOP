@@ -18,9 +18,5 @@ namespace EU_Calculator
             population = pop;
         }
 
-        public double getValues()
-        {
-            return population;
-        }
     }
 }

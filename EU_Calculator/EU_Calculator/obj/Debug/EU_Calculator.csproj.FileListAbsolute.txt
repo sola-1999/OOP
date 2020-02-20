@@ -16,3 +16,12 @@ C:\Users\maxja\Source\Repos\OOP\EU_Calculator\EU_Calculator\obj\Debug\EU_Calcula
 C:\Users\maxja\Source\Repos\OOP\EU_Calculator\EU_Calculator\obj\Debug\EU_Calculator.csproj.GenerateResource.cache
 C:\Users\maxja\Source\Repos\OOP\EU_Calculator\EU_Calculator\obj\Debug\EU_Calculator.exe
 C:\Users\maxja\Source\Repos\OOP\EU_Calculator\EU_Calculator\obj\Debug\EU_Calculator.pdb
+C:\Users\computing\Source\Repos\OOP\EU_Calculator\EU_Calculator\bin\Debug\EU_Calculator.exe.config
+C:\Users\computing\Source\Repos\OOP\EU_Calculator\EU_Calculator\bin\Debug\EU_Calculator.exe
+C:\Users\computing\Source\Repos\OOP\EU_Calculator\EU_Calculator\bin\Debug\EU_Calculator.pdb
+C:\Users\computing\Source\Repos\OOP\EU_Calculator\EU_Calculator\obj\Debug\EU_Calculator.csprojAssemblyReference.cache
+C:\Users\computing\Source\Repos\OOP\EU_Calculator\EU_Calculator\obj\Debug\EU_Calculator.Form1.resources
+C:\Users\computing\Source\Repos\OOP\EU_Calculator\EU_Calculator\obj\Debug\EU_Calculator.Properties.Resources.resources
+C:\Users\computing\Source\Repos\OOP\EU_Calculator\EU_Calculator\obj\Debug\EU_Calculator.csproj.GenerateResource.cache
+C:\Users\computing\Source\Repos\OOP\EU_Calculator\EU_Calculator\obj\Debug\EU_Calculator.exe
+C:\Users\computing\Source\Repos\OOP\EU_Calculator\EU_Calculator\obj\Debug\EU_Calculator.pdb
