@@ -8,5 +8,10 @@ namespace EU_Calculator
 {
     class VoteCal
     {
+
+        int temp; //hold temporaru values
+        string voteStatues; //holds vote status
+
+
     }
 }

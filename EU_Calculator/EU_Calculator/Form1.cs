@@ -35,9 +35,6 @@ namespace EU_Calculator
                 Country.Add(new Countires(names.ElementAt(i),populations.ElementAt(i)));// Adds country too list
                 i++;//increments i
             }
-           
-
-
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -62,11 +59,11 @@ namespace EU_Calculator
 
                 if (vf1.Checked == true)//Checks if the tick box is ticked
                 {
-                    forDisplayAdd();//Runs a method to update the votes
+
                 }
                 if (vf1.Checked == false)// checkes if the tickbox in unticked
                 {
-                    forDisplayMinus();//Runs a method to update the votes
+                   
                 }
             }
 
@@ -127,6 +124,8 @@ namespace EU_Calculator
            
 
         }
+
+        //Ignore code after here
 
         private void forDisplayAdd()//Method to add for votes
         {

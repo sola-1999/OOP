@@ -17,5 +17,10 @@ namespace EU_Calculator
             name = country;
             population = pop;
         }
+
+        public double getValues()
+        {
+            return population;
+        }
     }
 }
