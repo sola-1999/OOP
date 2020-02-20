@@ -16,10 +16,28 @@ namespace EU_Calculator
         int vote_against;//Stores votes of disagreement
         int vote_abstain;//Stores abstains
 
+        
+
+
         public Form1()
         {
-            InitializeComponent();
             
+
+            InitializeComponent();
+            List<string> names = new List<string> { "Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia", "Spain", "Sweden" };
+            List<double> populations = new List<double> { 1.98, 2.56, 1.56, 0.91, 0.20, 2.35, 1.30, 0.30, 1.23, 14.98, 18.54, 2.40, 2.18, 1.10, 13.65, 0.43, 0.62, 0.14, 0.11, 3.89, 8.49, 2.30, 4.34, 1.22, 0.47, 10.49, 2.29 };
+            int lenght = names.Count;
+
+            List<Countires> Country = new List<Countires>();
+            int i = 0;
+            while (i < lenght)
+            {
+                Country.Add(new Countires(names.ElementAt(i),populations.ElementAt(i)));
+                i++;
+            }
+           
+
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -34,13 +52,22 @@ namespace EU_Calculator
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            if (vf1.Checked == true)//Checks if the tick box is ticked
+            if (va1.Checked == true || a1.Checked == true)
             {
-                forDisplayAdd();//Runs a method to update the votes
+                vf1.Checked = false;
             }
-            if (vf1.Checked == false)// checkes if the tickbox in unticked
+
+            else
             {
-                forDisplayMinus();//Runs a method to update the votes
+
+                if (vf1.Checked == true)//Checks if the tick box is ticked
+                {
+                    forDisplayAdd();//Runs a method to update the votes
+                }
+                if (vf1.Checked == false)// checkes if the tickbox in unticked
+                {
+                    forDisplayMinus();//Runs a method to update the votes
+                }
             }
 
         }
