@@ -92,8 +92,19 @@ namespace EU_Calculator
         }
 
         private void Form1_Load(object sender, EventArgs e)
-        { 
+        {
+            Timer timer = new Timer();// new timer
+            timer.Interval = (1 * 1000);// sets refresh to every second
+            timer.Tick += new EventHandler(timer_Tick); //calls the refesh method
+            timer.Start();// starts timer
+        }
 
+        private void timer_Tick(object sender, EventArgs e)
+        {
+            Refresh();//refreshes the form
+            countYes();//Runs countYes method
+            countNo();//Runs countNo method
+            countAbstain();//Runs countAbstain method
         }
     }
 }
