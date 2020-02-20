@@ -27,15 +27,15 @@ namespace EU_Calculator
             
             for (int i = 0; i < lenght; i++)//Loops through each country
             {
-                Countries1.Add(new Countires(names.ElementAt(i),populations.ElementAt(i)));// Adds country too list
-                dataGridView1.Rows.Add(names[i], populations[i], "Yes");
+                Countries1.Add(new Countires(names.ElementAt(i),populations.ElementAt(i)));// Adds country to list
+                dataGridView1.Rows.Add(names[i], populations[i], "Yes");// Creates a row for each 
             }
  
 
 
         }
 
-        private int countYes()
+        private void countYes()
         {
             int yes = 0;
             for (int i = 0; i < dataGridView1.Rows.Count; i++)
@@ -43,12 +43,16 @@ namespace EU_Calculator
 
                 if (dataGridView1.Rows[i].Cells[2].Value as string == "Yes")
                 {
+                   Countires name = Countries1.ElementAt(i);//fetches the current object
+
+                   double population = name.ReturnPop(); //fetches the current objects current
+
                     yes++;
                 }
             }
-            return yes;//Stores votes of agreement 
+             
         }
-        private int countNo()
+        private void countNo()
         {
             int no = 0;
             for (int i = 0; i < dataGridView1.Rows.Count; i++)
@@ -56,12 +60,16 @@ namespace EU_Calculator
 
                 if (dataGridView1.Rows[i].Cells[2].Value as string == "No")
                 {
+                    Countires name = Countries1.ElementAt(i);//fetches the current object
+
+                    double population = name.ReturnPop(); //fetches the current objects current
+
                     no++;
                 }
             }
-            return no;//Stores votes of disagreement
+            
         }
-        private int countAbstain()
+        private void countAbstain()
         {
             int abstain = 0;
             for (int i = 0; i < dataGridView1.Rows.Count; i++)
@@ -69,10 +77,14 @@ namespace EU_Calculator
 
                 if (dataGridView1.Rows[i].Cells[2].Value as string == "Abstain")
                 {
+                    Countires name = Countries1.ElementAt(i);//fetches the current object
+
+                    double population = name.ReturnPop(); //fetches the current objects current
+
                     abstain++;
                 }
             }
-            return abstain;//Stores abstains
+            
         }
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {

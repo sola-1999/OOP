@@ -18,5 +18,11 @@ namespace EU_Calculator
             population = pop;
         }
 
+        public double ReturnPop()
+        {
+            return population;
+        }
+
+
     }
 }

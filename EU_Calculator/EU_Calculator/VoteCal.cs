@@ -11,8 +11,8 @@ namespace EU_Calculator
 
         int temp; //hold temporaru values
         string voteStatues; //holds vote status
-        if (yes/27 > 0.55) or pop > 0.65;
-            status = yes
+        //if (yes/27 > 0.55) or pop > 0.65;
+           // status = yes
 
 
     }
