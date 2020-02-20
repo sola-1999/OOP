@@ -33,7 +33,7 @@ namespace EU_Calculator
             while (i < lenght)
             {
                 Country.Add(new Countires(names.ElementAt(i),populations.ElementAt(i)));
-                i++;
+                i++;//increments i
             }
            
 
