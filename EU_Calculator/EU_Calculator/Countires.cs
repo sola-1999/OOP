@@ -8,19 +8,19 @@ namespace EU_Calculator
 {
     class Countires
     {
-        private double population; //stores the popluation percentage
-        private string name;
+        private double population;//Stores the popluation percentage
+        private string name;//Stores country name
 
 
         public Countires(string country, double pop) //contructor to create a countries object
         {
-            name = country;
-            population = pop;
+            name = country;//Sets name to the countrys name
+            population = pop;//Sets the population to the countries population
         }
 
         public double ReturnPop()
         {
-            return population;
+            return population;//Returns the countries name
         }
 
 
