@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+/*
+ * Title      : EU vote calculator
+ * Form       : Countires
+ * Use        : Holds the county class
+ * Creator    : Max Jameson, Isaac Gordon-Smith, John Joe Merritt, Kokilarathan Sivarajah
+ */
 
 namespace EU_Calculator
 {

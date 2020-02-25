@@ -8,6 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/*
+ * Title      : EU vote calculator
+ * Form       : Form1
+ * Use        : Runs calculator
+ * Creator    : Max Jameson, Isaac Gordon-Smith, John Joe Merritt, Kokilarathan Sivarajah
+ */
+
 
 namespace EU_Calculator
 {
@@ -66,7 +73,7 @@ namespace EU_Calculator
             }
 
 
-            ResultPrint.Text = voteCalculator.Result();//Runs a method in voteCal to get the vote results
+            ResultPrint.Text = voteCalculator.ReturnResult();//Runs a method in voteCal to get the vote results
         }
        
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)

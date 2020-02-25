@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+/*
+ * Title      : EU vote calculator
+ * Form       : Form1
+ * Use        : Holds the voting calculator class
+ * Creator    : Max Jameson, Isaac Gordon-Smith, John Joe Merritt, Kokilarathan Sivarajah
+ */
 
 namespace EU_Calculator
 {
@@ -31,13 +37,14 @@ namespace EU_Calculator
         {
             state_for = state_for + vote;//Increments state_for votes
             pop_for = pop_for + population;//Increments pop_for votes
-
+            Result();//Runs result method
         }
 
         public void recieveVoteAgainst(double vote, double population)
         {
             state_against = state_against + vote;//Increments state_against votes
             pop_against = pop_against + population;//Increments pop_against votes
+            Result();//Runs result method
 
         }
 
@@ -45,10 +52,11 @@ namespace EU_Calculator
         {
             state_abstain = state_abstain + vote;//Increments state_abstain votes
             pop_abstain = pop_abstain + population;//Increments pop_abstain votes
+            Result();//Runs result method
 
         }
 
-        public string Result()
+        private void Result()
         {
             if(state_for < 14.85 || pop_for < 65)//Checks if the vote are under the pass mark
             {
@@ -59,7 +67,11 @@ namespace EU_Calculator
                 result = "Passed";//Passes the vote
             }
 
-            return result;//Returns results to the main program
+        }
+
+        public string ReturnResult()
+        {
+            return result;//Returns vote result
         }
     }
 }
