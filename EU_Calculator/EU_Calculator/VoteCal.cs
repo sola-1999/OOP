@@ -8,13 +8,13 @@ namespace EU_Calculator
 {
     class VoteCal
     {
-        double state_for;//Stores the states votes for
-        double state_against; //Stores the states votes against
-        double state_abstain; //Stores the states votes abstain
-        double pop_for; //Stores the populations votes for
-        double pop_against; //Stores the populations votes against
-        double pop_abstain;//Stores the populations votes abstain
-        string result;//Stores the result
+       private double state_for;//Stores the states votes for
+       private double state_against; //Stores the states votes against
+       private double state_abstain; //Stores the states votes abstain
+       private double pop_for; //Stores the populations votes for
+       private double pop_against; //Stores the populations votes against
+       private double pop_abstain;//Stores the populations votes abstain
+       private string result;//Stores the result
 
 
         public VoteCal()
