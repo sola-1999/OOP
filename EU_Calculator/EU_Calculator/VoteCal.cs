@@ -8,6 +8,7 @@ using System.Threading.Tasks;
  * Form       : Form1
  * Use        : Holds the voting calculator class
  * Creator    : Max Jameson, Isaac Gordon-Smith, John Joe Merritt, Kokilarathan Sivarajah
+ * Group      : 56
  */
 
 namespace EU_Calculator
