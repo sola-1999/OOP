@@ -15,8 +15,8 @@ namespace EU_Calculator
 {
     class Countires
     {
-        private double population;//Stores the popluation percentage
-        private string name;//Stores country name
+        private double population { get; set; } //Stores the population value
+        private string name { get; set; } //Stores the name of the country
 
 
         public Countires(string country, double pop) //contructor to create a countries object
@@ -27,7 +27,8 @@ namespace EU_Calculator
 
         public double ReturnPop()
         {
-            return population;//Returns the countries name
+            double retVal = population; //Fethes the population value
+            return retVal; //Returns the value to the main program
         }
 
 

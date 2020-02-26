@@ -15,14 +15,13 @@ namespace EU_Calculator
 {
     class VoteCal
     {
-       private double state_for;//Stores the states votes for
-       private double state_against; //Stores the states votes against
-       private double state_abstain; //Stores the states votes abstain
-       private double pop_for; //Stores the populations votes for
-       private double pop_against; //Stores the populations votes against
-       private double pop_abstain;//Stores the populations votes abstain
-       private string result;//Stores the result
-
+        private double state_for { get; set; }//Stores the states vote for
+        private double state_against { get; set; }//Stores the states vote against
+        private double state_abstain { get; set; }//Stores the states vote abstain
+        private double pop_for { get; set; }//Stores the populations vote for
+        private double pop_against { get; set; }//Stores the populations vote against
+        private double pop_abstain { get; set; }//Stores the populations vote abstain
+        private string result { get; set; }//Stores the result
 
         public VoteCal()
         {
@@ -75,4 +74,5 @@ namespace EU_Calculator
             return result;//Returns vote result
         }
     }
+
 }
