@@ -21,9 +21,12 @@ namespace EU_Calculator
         private double pop_for { get; set; }//Stores the populations vote for
         private double pop_against { get; set; }//Stores the populations vote against
         private double pop_abstain { get; set; }//Stores the populations vote abstain
-        private string result { get; set; }//Stores the result
+        private string resultQM { get; set; }//Stores the result
+        private string resultUN { get; set; }//Stores the result
 
-        public VoteCal()
+        private string votingType { get; set; }//Stores the voting type
+
+        public VoteCal(string VoteT)
         {
             state_for = 0;
             state_against = 0;
@@ -31,6 +34,7 @@ namespace EU_Calculator
             pop_for = 0;
             pop_against = 0;
             pop_abstain = 0;//Sets all double variables to 0
+            votingType = VoteT;
         }
 
         public void recieveVoteFor(double vote, double population)
@@ -58,20 +62,36 @@ namespace EU_Calculator
 
         private void Result()
         {
-            if(state_for < 14.85 || pop_for < 65)//Checks if the vote are under the pass mark
+            if(state_for < 14.85 || pop_for < 65)//Checks if the vote are under the pass mark for a qualified majority
             {
-                result = "Rejected";//rejects the vote
+                resultQM = "Rejected";//rejects the vote
             }
             else
             {
-                result = "Passed";//Passes the vote
+                resultQM = "Passed";//Passes the vote
+            }
+
+            if (state_for < 27 & pop_for < 100)//Checks if the vote are under the pass mark for unamity
+            {
+                resultUN = "Rejected";//rejects the vote
+            }
+            else
+            {
+                resultUN = "Passed";//Passes the vote
             }
 
         }
 
         public string ReturnResult()
         {
-            return result;//Returns vote result
+            if (votingType == "QM")//Checks which vote was carried out
+            {
+                return resultQM;//Returns vote result
+            }
+            else
+            {
+                return resultUN;//Returns vote result
+            }
         }
     }
 
